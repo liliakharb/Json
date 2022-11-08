@@ -1,1 +1,12 @@
-
+{"ID" : 1,
+ "Autor" : "Liliya",
+ "Date" : "16.08.22",
+ "incident tipe" : "bug",
+ "Title" : "the botton of "weź udział" with product "kawa 200ml" is not clickable on the main page",
+ "description" : "the product "kawa 200ml" is on the first slider in the third position",
+ "Environment" : "and Android 10 QKQ1.190910.002 Redmi Note 7 Chrome, WI-fi",
+ "Steps to reproduce" : "1) Open app Zappka 2) Click on the button weź udział under the product kawa 200ml",
+ "actual result" : "the botton of weź udział with product kawa 200ml is not clickable",
+ "expected result" : "the botton of weź udział with product kawa 200ml is clickable"
+ "severity" : "major" ,
+ "priority" : "high"}
