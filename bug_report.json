@@ -9,4 +9,18 @@
  "actual result" : "the botton of weź udział with product kawa 200ml is not clickable",
  "expected result" : "the botton of weź udział with product kawa 200ml is clickable"
  "severity" : "major" ,
- "priority" : "high"}
+ "priority" : "high"},
+{"ID" : 2,
+ "Autor" : "Liliya",
+ "Date" : "11.11.22",
+ "incident tipe" : "bug",
+ "Title" : "",
+ "description" : "the product kawa 200ml is on the first slider in the third position",
+ "Environment" : "It was tested in Chrome 47 and Mozilla Firefox 38, Works only in Mozilla Firefox 38.",
+ "Steps to reproduce" : "Go to https://www.hersheys.com/recipes/en_US/products/baking-pieces.html (sign in if it is necessary), Click “Reese’s Mini Pieces.",
+ "actual result" : "The chosen item is deleted from the list",
+ "expected result" : "The page with the detailed description of Reese’s Mini Pieces should be opened."
+ "severity" : "major" ,
+ "priority" : "high"},
+ "priority" : "high"},
+ 
