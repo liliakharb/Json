@@ -21,6 +21,6 @@
  "actual result" : "The chosen item is deleted from the list",
  "expected result" : "The page with the detailed description of Reese’s Mini Pieces should be opened."
  "severity" : "major" ,
- "priority" : "high"},
- "priority" : "high"},
+ "priority" : "high"}
+
  
